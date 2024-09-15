@@ -29,5 +29,9 @@ name = "adder_3_1"
 version = "0.1.0"
 
 [[package]]
+name = "adder_3_2"
+version = "0.1.0"
+
+[[package]]
 name = "playground"
 version = "0.1.0"

@@ -6,5 +6,5 @@ members = [
   "adder_2", 
   "adder_3/adder_3", 
   "adder_3/adder_3_1",
-  "playground",
+  "playground", "adder_3/adder_3_2",
 ]
